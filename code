@@ -1,0 +1,6 @@
+#hangman code from the earlier challenge
+
+def hangman():
+	return 'Hangman will die if you be a jerk and don\'t save him'
+
+
