@@ -2,5 +2,14 @@
 
 def hangman():
 	return 'Hangman will die if you be a jerk and don\'t save him'
+	
+	
+def calculus(x):
+        if x is int:
+                return x*18
+        else:
+                return str(x)+'in the back of a car'
+
+print('calculus is a good function!^^')
 
 
