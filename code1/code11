@@ -1,0 +1,9 @@
+def calculus(x):
+	if x is int:
+		return x*18
+	else:
+		return str(x)+'in the back of a car'
+
+print('calculus is a good function!^^')
+
+
