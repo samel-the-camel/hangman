@@ -12,4 +12,10 @@ def calculus(x):
 
 print('calculus is a good function!^^')
 
+def logic(till_the_end):
+	for l in till_the_end:
+	print('Till the end!!Long live the WOOO!')
+	
+	
+
 
